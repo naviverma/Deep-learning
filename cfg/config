@@ -1,0 +1,5 @@
+Host turing
+Hostname 4c16.dev
+Port 9000
+StrictHostKeyChecking no
+IdentityFile /root/.ssh/custom_key
